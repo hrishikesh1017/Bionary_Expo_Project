@@ -3,3 +3,4 @@ numpy==1.23.5
 cvlib==0.2.7
 opencv-python==4.8.0.76
 Keras==2.13.1
+tensorflow==2.13.0
